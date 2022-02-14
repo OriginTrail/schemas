@@ -1,8 +1,12 @@
 {
   "@context": {
-    "name": "http://origintrail.io/contexts/name",
+    "name": "http://schema.org/name",
     "image": {
-      "@id": "http://origintrail.io/contexts/image",
+      "@id": "http://schema.org/image",
+      "@type": "@id"
+    },
+    "homepage": {
+      "@id": "http://schema.org/url",
       "@type": "@id"
     }
   }
