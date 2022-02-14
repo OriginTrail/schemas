@@ -1,5 +1,8 @@
 {
   "@context": {
+    "id": "@id",
+    "type": "@type",
+
     "name": "http://schema.org/name",
     "image": {
       "@id": "http://schema.org/image",
