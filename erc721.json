@@ -1,0 +1,9 @@
+{
+  "@context": {
+    "name": "http://origintrail.io/contexts/name",
+    "image": {
+      "@id": "http://origintrail.io/contexts/image",
+      "@type": "@id"
+    }
+  }
+}
